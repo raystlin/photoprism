@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	tensorflow "github.com/tensorflow/tensorflow/tensorflow/go"
+	tensorflow "github.com/wamuir/graft/tensorflow"
 
 	"github.com/photoprism/photoprism/pkg/fs"
 

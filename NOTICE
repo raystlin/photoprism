@@ -5414,11 +5414,9 @@ SOFTWARE.
 
 --------------------------------------------------------------------------------
 
-Package: github.com/tensorflow/tensorflow/tensorflow/go
-Version: v1.15.2
-License: Apache-2.0 (https://github.com/tensorflow/tensorflow/blob/v1.15.2/LICENSE)
-
-Copyright 2019 The TensorFlow Authors.  All rights reserved.
+Package: github.com/wamuir/graft/tensorflow
+Version: v0.10.0
+License: Apache-2.0 (https://github.com/wamuir/graft/blob/nightly/LICENSE)
 
                                  Apache License
                            Version 2.0, January 2004

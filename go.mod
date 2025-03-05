@@ -37,9 +37,9 @@ require (
 	github.com/sevlyar/go-daemon v0.1.6
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.10.0
-	github.com/tensorflow/tensorflow v1.15.2
 	github.com/tidwall/gjson v1.18.0
 	github.com/ulule/deepcopier v0.0.0-20200430083143-45decc6639b6
+	github.com/wamuir/graft v0.10.0
 	go4.org v0.0.0-20230225012048-214862532bf5 // indirect
 	golang.org/x/crypto v0.35.0
 	golang.org/x/net v0.35.0
@@ -66,8 +66,6 @@ require (
 	golang.org/x/time v0.10.0
 )
 
-require github.com/go-ldap/ldap/v3 v3.4.10
-
 require (
 	github.com/prometheus/client_golang v1.21.0
 	github.com/prometheus/common v0.62.0
@@ -89,7 +87,6 @@ require (
 )
 
 require (
-	github.com/Azure/go-ntlmssp v0.0.0-20221128193559-754e69321358 // indirect
 	github.com/KyleBanks/depth v1.2.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/boombuler/barcode v1.0.1 // indirect
@@ -101,7 +98,6 @@ require (
 	github.com/dsoprea/go-logging v0.0.0-20200710184922-b02d349568dd // indirect
 	github.com/dsoprea/go-utility/v2 v2.0.0-20221003172846-a3e1774ef349 // indirect
 	github.com/gin-contrib/sse v1.0.0 // indirect
-	github.com/go-asn1-ber/asn1-ber v1.5.7 // indirect
 	github.com/go-jose/go-jose/v4 v4.0.4 // indirect
 	github.com/go-logr/logr v1.4.2 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
